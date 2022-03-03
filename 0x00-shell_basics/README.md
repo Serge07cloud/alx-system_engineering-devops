@@ -6,3 +6,4 @@
 6 - Create a directory in /tmp/ directory
 7 - Move file from /tmp/ to /tmp/my_first_directory
 8 - Delete file betty
+9 - Dir deletion 
