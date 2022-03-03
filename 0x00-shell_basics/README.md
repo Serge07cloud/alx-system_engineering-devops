@@ -3,3 +3,4 @@
 3 - Display current directory contents in long format
 4 - Current directory contents including hidden files
 5 - Display current directory - User and group IDs displayed numerically
+6 - Create a directory in /tmp/ directory
