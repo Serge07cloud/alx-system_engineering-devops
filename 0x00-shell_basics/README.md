@@ -8,3 +8,4 @@
 8 - Delete file betty
 9 - Dir deletion 
 10- Change the working directory to the previous one
+11- Long list
