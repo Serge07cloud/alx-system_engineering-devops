@@ -11,3 +11,4 @@
 11- Long list
 12- Display file type
 13- Symbolic link to /bin/ls
+14- Copy HTML files - newer or missing ones
