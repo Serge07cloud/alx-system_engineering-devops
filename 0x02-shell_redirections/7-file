@@ -1,2 +1,2 @@
 #!/bin/bash
-touch "\est"
+echo 'Best School' > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
